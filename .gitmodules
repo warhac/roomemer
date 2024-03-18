@@ -1,0 +1,3 @@
+[submodule "roomemer"]
+	path = roomemer
+	url = https://github.com/warhac/roomemer.git
